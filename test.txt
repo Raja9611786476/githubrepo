@@ -1,3 +1,14 @@
 hello world
+<<<<<<< HEAD
 this is second line
 Madhan is editing this file
+=======
+
+
+THIS IS MY 2ND EDIT
+
+RAJ
+>>>>>>> 0de7700ce8e055b3502ffaa8e90d6933f540ff9e
+
+
+madhan
